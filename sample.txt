@@ -1,3 +1,5 @@
 This is a sample file created by master branch in Github Account of sharifgopi
 This line is the first line added by master in Local Repository
-This is the first line added by child 
+This is the first line added by child
+This is the second line added by child
+This is the Third line added by child
